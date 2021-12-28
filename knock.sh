@@ -5,7 +5,7 @@ echo "+--------------------------+"
 echo "+      port knocker        +"
 echo "+--------------------------+"
 echo ""
-echo "Usage: ./sshconnect <ip address>"
+echo "Usage: ./knock <ip address>"
 echo ""
 exit 1
 }
